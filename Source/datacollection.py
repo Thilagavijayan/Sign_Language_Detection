@@ -3,6 +3,7 @@ from cvzone.HandTrackingModule import HandDetector
 import numpy as np
 import math
 import time
+import pickle
 
 cap = cv2.VideoCapture(0)
 detector = HandDetector(maxHands=1)
@@ -52,3 +53,4 @@ while True:
         counter += 1
         cv2.imwrite(f'{folder}/Image_{time.time()}.jpg',imgWhite)
         print(counter)
+
