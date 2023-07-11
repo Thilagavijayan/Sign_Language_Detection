@@ -24,8 +24,6 @@ This repository contains code and resources for a Sign Language Detection projec
    pip install -r requirements.txt
    ```
 
-3. Download the pre-trained models and datasets from [here](link-to-pretrained-models) and [here](link-to-datasets).
-
 ## Usage
 
 1. Open the project in your preferred IDE or text editor.
