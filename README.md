@@ -31,7 +31,7 @@ This repository contains code and resources for a Sign Language Detection projec
 2. Run the main application file:
 
    ```shell
-   python main.py
+   python testing.py
    ```
 
 3. Follow the instructions in the terminal or GUI to interact with the system.
